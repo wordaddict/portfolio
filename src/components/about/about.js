@@ -7,11 +7,8 @@ export default class About extends Component {
          <div className="row">
 
             <div className="three columns">
-
                <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
-
             </div>
-
             <div className="nine columns main-col">
 
                <h2>About Me</h2>
@@ -39,7 +36,7 @@ export default class About extends Component {
 
                   <div className="columns download">
                      <p>
-                        <a className="button" href="https://drive.google.com/open?id=1rYHgABYJKdKgMJNxLYNIX4-1km9FW4yE" 
+                        <a className="button" href="https://drive.google.com/file/d/1we-bceXRXvmLzg3ptfAsAtWIRbtBfZKq/view?usp=sharing" 
                         target="_blank" rel="noopener noreferrer">
                            <i className="fa fa-download"></i>
                            Download Resume
