@@ -34,13 +34,13 @@ let resumeData = {
         "className":"fa fa-twitter"
       }
     ],
-  "aboutme":"I am a Fullstack Software Engineer experienced in building web and mobile technologies, working with databases and deploying scalable applications, I have over time worked on both fun and challenging projects that include building APIs to scale, creating awesome interfaces, working with complex queries for Databases, deploying/managing applications and contributing to open source projects.",
-  "address":"Lagos Stata, Nigeria",
+  "aboutme":"I am a Fullstack Software Engineer experienced in building web and mobile technologies, working with databases and deploying applications to scale, I have over time worked on both fun and challenging projects that include building APIs to scale, creating awesome interfaces, working with complex queries for Databases, deploying/managing applications and contributing to open source projects.",
+  "address":"Lagos State, Nigeria",
   "website":"https://www.wordaddict.dev",
   "education":[
     {
       "id":1,
-      "UniversityName":"Obafemi University University",
+      "UniversityName":"Obafemi Awolowo University",
       "specialization":"Civil Engineering",
       "MonthOfPassing":"Jan",
       "YearOfPassing":"2017",
