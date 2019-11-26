@@ -7,7 +7,7 @@ let resumeData = {
   "email2":"madeyinka6@gmail.com",
   "phone": "+2347032748645",
   "skypeid": "madeyinka6",
-  "roleDescription":"a result driven and innovative engineer with vast experience in both web and mobile technologies, building applications to scale and love building software products that add value.",
+  "roleDescription":"a results-driven and innovative engineer with vast experience in both web and mobile technologies, building applications to scale and love building software products that add value.",
   "socialLinks":[
       {
         "id":1,
@@ -36,7 +36,7 @@ let resumeData = {
     ],
   "aboutme":"I am a Fullstack Software Engineer experienced in building web and mobile technologies, working with databases and deploying applications to scale, I have over time worked on both fun and challenging projects that include building APIs to scale, creating awesome interfaces, working with complex queries for Databases, deploying/managing applications and contributing to open source projects.",
   "address":"Lagos State, Nigeria",
-  "website":"https://www.wordaddict.dev",
+  "website":"https://michealdev.netlify.com/",
   "education":[
     {
       "id":1,
@@ -50,26 +50,46 @@ let resumeData = {
   "work":[
     {
       "id":1,
+      "CompanyName":"Great brands",
+      "specialization":"Senior Software Engineer",
+      "startMonth": "July",
+      "startYear": "2019",
+      // "MonthOfLeaving":"present",
+      "YearOfLeaving":"present",
+      "Achievements": "Led the internal tools team to provide a B2B solution to optimize inventory, automating the process of risk evaluation of inventory to go out of stock and the process of restocking to thousands of locations.",
+    },
+    {
+      "id":2,
       "CompanyName":"Terragon Group Limited",
       "specialization":"Software/Data Engineer",
       "startMonth": "January",
       "startYear": "2018",
-      // "MonthOfLeaving":"present",
-      "YearOfLeaving":"present",
+      "MonthOfLeaving":"June",
+      "YearOfLeaving":"2019",
       "Achievements": "Creating APIs, Software as a service, Data related projects and building microservices and also worked with couple of engineers to build an Interactive Messaging Engine that takes request via SMS, USSD and web flow and returns a response in Real time, Collaborated with fellow engineers to build tivia solution but data engineering related projects.",
     },
     {
-      "id":2,
-      "CompanyName":"CrowndaveKonnect",
+      "id":3,
+      "CompanyName":"Circle Mesh, San Francisco, USA",
       "specialization":"Software Engineer",
       "MonthOfLeaving":"December",
       "YearOfLeaving":"2017",
-      "startMonth": "January",
+      "startMonth": "August",
       "startYear": "2016",
-      "Achievements":"Built and maintained interactive web applications, gave support to clients and built great interfaces, provided techincal support by fixing bugs for clients, built a Software as a service products and optimized web platforms using various technologies."
+      "Achievements":"Built and maintained an event search application based on location."
+    },
+    {
+      "id":4,
+      "CompanyName":"Natterbase",
+      "specialization":"Software Engineer",
+      "MonthOfLeaving":"August",
+      "YearOfLeaving":"2016",
+      "startMonth": "November",
+      "startYear": "2015",
+      "Achievements":"Led the backend team to build an insurance platform."
     }
   ],
-  "skillsDescription":"Here are some skills i have.",
+  "skillsDescription":"Here are some skills I have.",
   "skills":[
     {
       "id":1,
@@ -93,7 +113,7 @@ let resumeData = {
     },
     {
       "id":5,
-      "name":"DataBases (MongoDB, SQL, RabbitMQ, Redis)",
+      "name":"DataBases (MongoDB, SQL, RabbitMQ, Redis, Postgres)",
       "skillname": "databases"
     },
     {
@@ -109,7 +129,7 @@ let resumeData = {
     {
       "id":8,
       "skillname": "ci",
-      "name":"CI/CD - Deployment (Rancher, Docker, Jenkins)"
+      "name":"CI/CD - Deployment (Rancher, Docker, Jenkins, CircleCI)"
     },
     {
       "id":9,
@@ -125,24 +145,33 @@ let resumeData = {
       "imgurl":"images/portfolio/phone.jpg",
       "url": "https://murmuring-ravine-98716.herokuapp.com/"
     },
+    // {
+    //   "id":2,
+    //   "name":"Audio Converter",
+    //   "description":"converts an Audio file to text, written in Node, React using IBM watson Audio to speech API",
+    //   "imgurl":"images/portfolio/project.jpg",
+    //   "url": "https://radiant-garden-17845.herokuapp.com/"
+    // },
     {
       "id":2,
-      "name":"Audio Converter",
-      "description":"converts an Audio file to text, written in Node, React using IBM watson Audio to speech API",
-      "imgurl":"images/portfolio/project.jpg",
-      "url": "https://radiant-garden-17845.herokuapp.com/"
+      "name":"Inventory Optimization",
+      "description":"A B2B solution to optimize inventory, automating the process of risk evaluation of inventory to go out of stock and the process of restocking to thousands of locations.",
+      "imgurl":"images/portfolio/io.png",
+      "url": "https://staging.iogbnl.com/login/"
     },
     {
       "id":3,
-      "name":"Conference profiler",
-      "description":"This is an API to adds to a talk and conference link across the globe",
-      "imgurl":"images/portfolio/project2.png"
+      "name":"Circle Mesh",
+      "description":"an event search application based on location.",
+      "imgurl":"images/portfolio/project2.png",
+      "url": "https://www.circlemesh.com"
     },
     {
       "id":4,
-      "name":"Report application",
-      "description":"A React native project that gets reports of incidents",
-      "imgurl":"images/portfolio/projec.jpg"
+      "name":"Marketing Console",
+      "description":"A messaging platform that gets request from various routes (USSD, Web, SMS) and sends response to millions of users.",
+      "imgurl":"images/portfolio/marketing.png",
+      "url": "http://staging.marketing-console.terragonbase.com/"
     }
   ],
   "testimonials":[
@@ -159,7 +188,27 @@ let resumeData = {
     {
       "id":3,
       "description":"It was amazing to work together with Adeyinka Micheal, who was an efficient Software Engineer. He is very thorough in everything he does and can be depended upon to get the job done. I would recommend him with any project that requires the very best in Software Engineering execution. Working at Terragon Group is most challenging, and he thrived. Dedicated and goal oriented strategist that cannot be overestimated. Adeyinka Micheal makes the impossible possible. Definitely someone I'd want to to have on my team",
-      "name":"Victor Ichofu - Technical Program Manager | Scrum Master | Software Quality Analyst | AUG Lagos Leader"
+      "name":"Victor Ichofu (PSM Technical Program Manager | Professional Scrum Master | Software Quality Analyst | AUG Lagos Leader)"
+    },
+    {
+      "id":4,
+      "description":"I rarely come across real talents who stand out like Micheal. I had the pleasure of working with Micheal at Great Brands Nigeria Limited, collaborating on several projects. Micheal’s ability to handle multiple projects while making sure that whatever project he is working on meets the highest standards was unlike any I’ve seen before and that made a dramatic increase in the productivity level to the company. As an Invaluable asset to any company, Micheal earns my highest recommendation",
+      "name":"Okorie Ekene Emmanuel (Data Scientist & Machine Learning Engineer)"
+    },
+    {
+      "id":5,
+      "description":"Adeyinka micheal is Someone you will want to work with. He is energetic, A team player and very resourceful. Micheal is always interested in mentoring Juniors. He is always ready to listen, he has helped me all through my time in GBNL and not only me, but all other Junior Software Engineers around. It is obvious that he is a passionate Leader that anyone will want to have on his team.",
+      "name":"Adedayo Akinpelu (Site Reliability Engineer | DevOps Engineer at Quidax)"
+    },
+    {
+      "id":6,
+      "description":"Adeyinka Micheal is a very self driven reliable engineer, a great mentor and an avid listener. Very observant of detail and growth oriented. He’s a very great person to work with!",
+      "name":"Sanusi Mohammed (Software Engineer)"
+    },
+    {
+      "id":7,
+      "description":"Adeyinka micheal is Someone you will want to work with. He is energetic, A team player and very resourceful. Micheal is always interested in mentoring Juniors. He is always ready to listen, he has helped me all through my time in GBNL and not only me, but all other Junior Software Engineers around. It is obvious that he is a passionate Leader that anyone will want to have on his team.",
+      "name":"Sunmonu Oluwole (Software Developer at Great Brands Nigeria Ltd.)"
     }
   ]
 }
