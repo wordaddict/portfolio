@@ -50,8 +50,18 @@ let resumeData = {
   "work":[
     {
       "id":1,
+      "CompanyName":"Modus Create, California, USA (Remote)",
+      "specialization":"Software Engineer",
+      "startMonth": "March",
+      "startYear": "2020",
+      // "MonthOfLeaving":"present",
+      "YearOfLeaving":"present",
+      "Achievements": "Working with a team of engineers in building a web application that helps students explore careers and create academic plans using complete serverless architecture.",
+    },
+    {
+      "id":2,
       "CompanyName":"Great brands",
-      "specialization":"Senior Software Engineer",
+      "specialization":"Senior Software Engineer/Team lead",
       "startMonth": "July",
       "startYear": "2019",
       // "MonthOfLeaving":"present",
@@ -59,7 +69,7 @@ let resumeData = {
       "Achievements": "Led the internal tools team to provide a B2B solution to optimize inventory, automating the process of risk evaluation of inventory to go out of stock and the process of restocking to thousands of locations.",
     },
     {
-      "id":2,
+      "id":3,
       "CompanyName":"Terragon Group Limited",
       "specialization":"Software/Data Engineer",
       "startMonth": "January",
@@ -69,7 +79,7 @@ let resumeData = {
       "Achievements": "Creating APIs, Software as a service, Data related projects and building microservices and also worked with couple of engineers to build an Interactive Messaging Engine that takes request via SMS, USSD and web flow and returns a response in Real time, Collaborated with fellow engineers to build tivia solution but data engineering related projects.",
     },
     {
-      "id":3,
+      "id":4,
       "CompanyName":"Circle Mesh, San Francisco, USA",
       "specialization":"Software Engineer",
       "MonthOfLeaving":"December",
@@ -78,16 +88,6 @@ let resumeData = {
       "startYear": "2016",
       "Achievements":"Built and maintained an event search application based on location."
     },
-    {
-      "id":4,
-      "CompanyName":"Natterbase",
-      "specialization":"Software Engineer",
-      "MonthOfLeaving":"August",
-      "YearOfLeaving":"2016",
-      "startMonth": "November",
-      "startYear": "2015",
-      "Achievements":"Led the backend team to build an insurance platform."
-    }
   ],
   "skillsDescription":"Here are some skills I have.",
   "skills":[

@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+var d = new Date();
+var n = d.getFullYear();
+
 export default class Footer extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -20,7 +23,7 @@ export default class Footer extends Component {
             }
           </ul>
           <ul className="copyright">
-            <li>© Copyright 2019</li>
+          <li>© Copyright {n}</li>
             <li>Made by <a title="Adeyinka Micheal" href="https://www.linkedin.com/in/adeyinka-micheal-207986125/">Adeyinka Micheal</a></li>
           </ul>
         </div>
